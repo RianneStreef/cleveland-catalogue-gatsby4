@@ -22,7 +22,8 @@ module.exports = {
         // Setting this parameter is also optional
         respectDNT: true,
       },
-
+    },
+    {
       resolve: "gatsby-plugin-manifest",
       options: {
         name: "Cleveland Golf EU & Uk Catalogue",

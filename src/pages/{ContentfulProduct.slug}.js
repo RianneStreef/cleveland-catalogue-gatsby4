@@ -18,8 +18,6 @@ const ProductPage = (props) => {
   let products = props.data.allContentfulProduct.nodes;
   let slug = props.params.slug;
 
-  console.log(products[0].techText1.techText1);
-
   const navBack = products
     .filter((product) => product.slug === `/${slug}`)
     .map((product) => {

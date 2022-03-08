@@ -82,7 +82,7 @@ const ProductPage = (props) => {
                           backgroundSize: "contain",
                           backgroundRepeat: "no-repeat",
                           backgroundPosition: "center",
-                          height: "20vh",
+                          height: "30vh",
                         }}
                       />
                     </div>

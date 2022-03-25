@@ -279,7 +279,7 @@ const CategoryPage = (props) => {
       {slug === "launcher-xl" ? (
         <div>
           {launcherSubsList}{" "}
-          <p className="launcher-in-store">In store in March</p>
+          <p className="launcher-in-store">Now available in stores</p>
         </div>
       ) : null}
       {slug === "wedges" ? (

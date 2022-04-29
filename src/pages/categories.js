@@ -102,7 +102,8 @@ const CategoriesPage = (props) => {
       <div className="download">
         <p className="save-message" id="save-message">
           <i>
-            Don't forget to save the Cleveland Golf Catalogue on you home screen
+            Don't forget to save the Cleveland Golf Catalogue on your home
+            screen
           </i>
         </p>
 

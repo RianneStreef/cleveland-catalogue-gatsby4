@@ -47,7 +47,7 @@ module.exports = {
         accessToken: process.env.GATSBY_CONTENTFUL_TOKEN,
         spaceId: process.env.GATSBY_CONTENTFUL_ID,
 
-        // webhook not deploying correctly - still
+        // webhook not deploying correctly
 
         useNameForId: false,
       },

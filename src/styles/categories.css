@@ -151,6 +151,10 @@ a {
   overflow: hidden;
 }
 
+.copyright-container {
+  width: 100%;
+}
+
 .copyright {
   font-size: 0.6rem;
   text-align: center;

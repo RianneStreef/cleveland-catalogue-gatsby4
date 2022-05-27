@@ -111,11 +111,11 @@ const CategoriesPage = (props) => {
           <img src={download} alt="add app to home screen" />
         </div>
       </div>
-      {/* <div className="copyright-container">
+      <div className="copyright-container">
         <p className="copyright">
           ©️ 2022 Sumitomo Rubber Industries, Ltd. ALL RIGHTS Reserved.
         </p>
-      </div> */}
+      </div>
     </>
   );
 };

@@ -177,6 +177,10 @@ a {
   padding: 10px;
 }
 
+#___gatsby {
+  overflow: hidden;
+}
+
 @media only screen and (min-width: 700px) {
   .logo {
     width: 50%;

@@ -147,6 +147,10 @@ a {
   font-size: 0.7rem;
 }
 
+.copyright-container {
+  overflow: hidden;
+}
+
 .copyright {
   font-size: 0.6rem;
   text-align: center;
@@ -167,10 +171,6 @@ a {
 .launcher-in-store {
   font-size: 15px;
   padding: 10px;
-}
-
-.copyright {
-  overflow: hidden;
 }
 
 @media only screen and (min-width: 700px) {
